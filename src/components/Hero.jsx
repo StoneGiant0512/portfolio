@@ -8,7 +8,7 @@ export default function Hero() {
           className="hero-photo"
         />
         <p className="hero-greeting">Hello, I'm</p>
-        <h1 className="hero-title">Ryo Yamada</h1>
+        <h1 className="hero-title">Naoyuki Yamamoto</h1>
         <p className="hero-tagline">Senior Full Stack Software Engineer</p>
         <a href="#projects" className="btn btn-primary">
           View my work
