@@ -17,7 +17,7 @@ export default function Header({ activeSection }) {
     <header className="header">
       <nav className="nav">
         <a href="#home" className="nav-logo" onClick={handleLinkClick}>
-          Japan
+          Germany
         </a>
         <ul className={`nav-links ${menuOpen ? 'is-open' : ''}`}>
           {LINKS.map(({ href, label }) => (
