@@ -2,7 +2,7 @@
 
 A dark-themed portfolio built with **React** (Vite). Sections: **Home**, **About Me**, **Projects**, **Contact**.
 
-#Live Demo
+## Live Demo
 https://portfolio-rho-two-4iqveduai7.vercel.app/
 
 ## Run locally
